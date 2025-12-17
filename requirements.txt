@@ -1,0 +1,9 @@
+instagrapi
+gspread
+oauth2client
+requests
+pillow
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
